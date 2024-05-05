@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <p> -🔭 I’m currently a MCA Student at KIET Group of Institution</p>
   <p> - 🌱 I’m currently learning Web developement and DSA</p>
 </p>
+<br>
 
 <div align="center">
   
