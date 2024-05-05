@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Divyanshi Bhadauria</h1>
-<p align="left">
+<div align="center">
+<img src="IMAGE/img.jpg" alt="intro" height="400px"/>
+
   <p> -🔭 I’m currently a MCA Student at KIET Group of Institution</p>
   <p> - 🌱 I’m currently learning Web developement and DSA</p>
-</p>
+
 <br>
 
-<div align="center">
   
 ## Programming Languages:
 <p>
