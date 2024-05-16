@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="IMAGE/img.jpg" alt="intro" height="350px"/>
+<!--<img src="IMAGE/img.jpg" alt="intro" height="350px"/>-->
 
   <p> -🔭 I’m currently a MCA Student at KIET Group of Institution</p>
   <p> - 🌱 I’m currently learning Web developement and DSA</p>
