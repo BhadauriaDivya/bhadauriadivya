@@ -70,7 +70,4 @@ Here are some ideas to get you started:
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-
-## 🔎 Connect with me:
-
- </div>
+</div>
