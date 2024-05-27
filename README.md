@@ -73,5 +73,4 @@ Here are some ideas to get you started:
 
 ## 🔎 Connect with me:
 
-<a href="https://www.linkedin.com/in/divyanshi-bhadauria/">in</a>
  </div>
